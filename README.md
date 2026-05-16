@@ -5,7 +5,7 @@
 The AI-Based Crop Disease Detection System is a deep learning project developed using Python and Convolutional Neural Networks (CNN).
 This system helps in detecting crop diseases from leaf images and provides faster identification for farmers and agricultural researchers.
 
-The project uses image processing and machine learning techniques to classify diseases based on uploaded crop leaf images.
+The project uses image processing and machine learning techniques to classify diseases based on uploaded crop leaf images
 
 ---
 
